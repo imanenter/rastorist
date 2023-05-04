@@ -85,7 +85,7 @@ swap_maker() {
   sleep 1
 
   # 2 GB Swap Size
-  SWAP_SIZE=2G
+  SWAP_SIZE=3G
 
   # Default Swap Path
   SWAP_PATH="/swapfile"
